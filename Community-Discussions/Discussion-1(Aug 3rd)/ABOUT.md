@@ -14,7 +14,7 @@ The topics discussed include:
 * Areas of current and future research
 
 ## Steps for you to take
-1. Watch the lecture video on the QuantUs YouTube channel (link: {TBD})
+1. Watch the lecture video on the QuantUs YouTube channel (link: https://youtu.be/NM9rTs_vUxs)
 2. Refer to the PowerPoint presentation shared in this directory
 
 ### Extra Resources
