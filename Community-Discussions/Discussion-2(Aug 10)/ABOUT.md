@@ -1,4 +1,4 @@
-# Discussion #2 (August 10th, 2024: 4:30-6:00 p.m.)
+# Discussion #2 (August 10th, 2024: 4:30-5:30 p.m.)
 ## Overview of Gate-Based Quantum Computing
 ### By: Archit Chadalawada
 
